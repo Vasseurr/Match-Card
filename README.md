@@ -7,7 +7,7 @@ Download the app: https://play.google.com/store/apps/details?id=com.memory.hafiz
 Memmat is an Android App where you can play in different languages for free.
 
 # Screenshots
-<img src="https://user-images.githubusercontent.com/67058617/105497200-9738cd80-5ccf-11eb-9aa0-7500ca1daa40.png" width="100">
+<img src="https://user-images.githubusercontent.com/67058617/105497200-9738cd80-5ccf-11eb-9aa0-7500ca1daa40.png" width="50%">
 ![](https://user-images.githubusercontent.com/67058617/105497200-9738cd80-5ccf-11eb-9aa0-7500ca1daa40.png = 100x100)
 
 ![](https://user-images.githubusercontent.com/67058617/105497240-a0c23580-5ccf-11eb-853b-186c81697181.png = 100x100)
