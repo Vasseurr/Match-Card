@@ -12,7 +12,7 @@ Memmat is an Android App where you can play in different languages for free.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-Green?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/eclipse%20idea-badge-blue.svg?style=flat&logo=eclipse%20ide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-eclipse%20idea-blue.svg?style=flat&logo=eclipse%20ide&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
@@ -30,13 +30,14 @@ It is type of crossword game and train memory and attention. It improves in your
 
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasseurr)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasseurr&theme=cobalt)](https://github.com/Vasseurr/github-readme-stats)
+-->
 ![Okan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasseurr&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasseurr&repo=OWIS)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasseurr&repo=OWIS)](https://github.com/Vasseurr/OWIS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasseurr&repo=User-Authentication)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasseurr&repo=User-Authentication)](https://github.com/Vasseurr/User-Authentication)
 
 
 
