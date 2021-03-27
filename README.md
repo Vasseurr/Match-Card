@@ -12,15 +12,9 @@ Memmat is an Android App where you can play in different languages for free.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-Green?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-eclipse%20idea-blue.svg?style=flat&logo=eclipse%20ide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Android-3DDC84?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SpringSecurity-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-
 
 # Screenshots
 <img src="https://user-images.githubusercontent.com/67058617/105497200-9738cd80-5ccf-11eb-9aa0-7500ca1daa40.png" height="20%" width="20%"> <img src="https://user-images.githubusercontent.com/67058617/105497240-a0c23580-5ccf-11eb-853b-186c81697181.png" height="20%" width="20%"> <img src="https://user-images.githubusercontent.com/67058617/105497277-ac156100-5ccf-11eb-96b4-5073335c60d4.png" height="20%" width="20%"> <img src="https://user-images.githubusercontent.com/67058617/105497307-b20b4200-5ccf-11eb-830e-24ff981d4f5b.png" height="20%" width="20%">
