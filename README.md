@@ -11,7 +11,7 @@ Download the app: https://play.google.com/store/apps/details?id=com.memory.hafiz
 Memmat is an Android App where you can play in different languages for free.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-Green?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-Green?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android-3DDC84?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
